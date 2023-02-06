@@ -9,9 +9,6 @@ Skills: REACT / JS / HTML / CSS / SASS
 - 👾 Оn this page you can see my works.
 - ⚡ Fun fact: i love cats. 
 
-
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=MakrFrost&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
