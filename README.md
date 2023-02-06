@@ -9,4 +9,4 @@ Skills: REACT / JS / HTML / CSS / SASS
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MakrFrost)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MakrFrost&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
