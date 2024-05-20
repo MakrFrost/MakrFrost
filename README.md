@@ -12,5 +12,3 @@ Skills: REACT / JS / HTML / CSS / SASS
 [![trophy](https://github-profile-trophy.vercel.app/?username=MakrFrost&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Profile views](https://gpvc.arturio.dev/MakrFrost)  
